@@ -13,4 +13,4 @@ Please, keep in mind that this is only a concept project which was created in or
 2. TCRT5000 and IDUINO ST1081 distance sensors
 3. Electic stepper motor
 4. Module with buzzer
-5. Light-emmitting diodes
+5. Light-emitting diodes
