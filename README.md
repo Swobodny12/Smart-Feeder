@@ -6,7 +6,7 @@ The project consist of phisical feeder model and a web page which is runed from 
 
 Please, keep in mind that this is only a concept project which was created in order to enhance my programming skills and to gain familiarity with electronics and microcontrollers.
 
-![](Project_Photo.png)
+<img src="Project_Photo.png" width="506" height="335">
 
 # Hardware 
 1. ESP32 microcontroller with Wi-Fi module
