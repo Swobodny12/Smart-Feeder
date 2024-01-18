@@ -6,7 +6,7 @@ The project consist of phisical feeder model and a web page which is runed from 
 
 Please, keep in mind that this is only a concept project which was created in order to enhance my programming skills and to gain familiarity with electronics and microcontrollers.
 
-![](https://github.com/Swobodny12/Smart-Feeder/Project_Photo.png)
+![](Project_Photo.png)
 
 # Hardware 
 1. ESP32 microcontroller with Wi-Fi module
